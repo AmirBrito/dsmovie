@@ -12,6 +12,7 @@ https://dsmovie-amirsb.netlify.app/
 ## Tecnologias utilizadas ##
 
    - Spring Boot
+   - Maven
    - PostgreSQL
    - React
    - Bootstrap
