@@ -15,6 +15,8 @@
 	<name>dsmovie</name>
 	<description>Projeto criado na semana spring react</description>
 	<properties>
+		<sonar.organization>bsa455154</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
